@@ -3,5 +3,5 @@ Ce projet contient des scripts pour modifier les noms des auteurs dans les fichi
 
 ## Scripts
 
-- `script.sh`: Script principal en Bash et AppleScript pour sélectionner et modifier les noms des auteurs dans les fichiers .docx
+- `lykaon.sh`: Script principal en Bash et AppleScript pour sélectionner et modifier les noms des auteurs dans les fichiers .docx
 - `extract_authors.py`: Script Python pour extraire les noms des auteurs depuis les fichiers XML inclus dans les documents Word.
